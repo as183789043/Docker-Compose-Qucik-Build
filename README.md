@@ -26,7 +26,7 @@ port :8080
 
 ### MongoDB + Mongo-Express
 ```
-## Mongo-Expressm 
+## Mongo-Express
 user:admin
 pass: pass
 port:8081
