@@ -1,5 +1,15 @@
-## Some commonly used docker-stack
+## Some Commonly Used Docker-Stack
 
+### Require
+- docker
+- docker compose
+
+### Quick Start
+```
+git clone https://github.com/as183789043/Docker-Compose-Qucik-Build.git
+cd <which service you want to build>
+docker compose up -d
+```
 
 ### MYSQL + Adminer 
 ```
